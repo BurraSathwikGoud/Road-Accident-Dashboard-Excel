@@ -52,5 +52,5 @@ To create a centralized, interactive dashboard that helps stakeholders understan
 
 ## 📂 Dashboard Output
 
-👉 **\[]**
+👉 **\[https://github.com/BurraSathwikGoud/Road-Accident-Dashboard-Excel/blob/main/dashboard.png ]**
 
